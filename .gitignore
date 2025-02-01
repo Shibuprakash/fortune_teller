@@ -1,0 +1,4 @@
+db.sqlite3
+randomfortune/__pycache__/
+fortune_teller/__pycache__/
+randomfortune/migrations/__pycache__/__init__.cpython-310.pyc
